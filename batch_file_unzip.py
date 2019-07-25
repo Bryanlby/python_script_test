@@ -1,3 +1,12 @@
+# -*- encoding: utf-8 -*-
+'''
+@File    :   batch_file_unzip.py
+@Time    :   2019/07/25 10:37:44
+@Author  :   lby 
+@Version :   1.0
+@Desc    :   None
+'''
+
 # gz： 即gzip。通常仅仅能压缩一个文件。与tar结合起来就能够实现先打包，再压缩。
 #
 # tar： linux系统下的打包工具。仅仅打包。不压缩

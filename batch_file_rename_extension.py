@@ -1,9 +1,11 @@
-# batch_file_rename_extension.py
-
-"""
-This will batch rename a group of files in a given directory,
-once you pass the current and new extensions
-"""
+# -*- encoding: utf-8 -*-
+'''
+@File    :   batch_file_rename_extension.py
+@Time    :   2019/07/25 10:37:29
+@Author  :   lby 
+@Version :   1.0
+@Desc    :   None
+'''
 
 import os
 import argparse

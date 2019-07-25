@@ -1,5 +1,11 @@
-# -*- coding: GBK -*-
-# batch_file_rename.py
+# -*- encoding: utf-8 -*-
+'''
+@File    :   batch_file_rename.py
+@Time    :   2019/07/25 10:37:35
+@Author  :   lby 
+@Version :   1.0
+@Desc    :   None
+'''
 
 import os
 import argparse
